@@ -1,10 +1,8 @@
-### Hey 👋 I'm Heath. 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hhheath">
 </p>
 
----
+### Hey! 👋🏻 I'm Heath
 
 Big fan of code and making computers do cool things. 
 
