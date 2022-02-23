@@ -1,7 +1,7 @@
 ### Hey 👋 I'm Heath. 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhheath&theme=dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhheath">
 </p>
 
 ---
