@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hhheath">
+  <img src="https://github-readme-stats.vercel.app/api?username=hhheath&theme=radical">
 </p>
 
 ### Hey! 👋🏻 I'm Heath
