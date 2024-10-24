@@ -1,5 +1,3 @@
-### Hey! 👋🏻 I'm Heath
-
 Big fan of making computers do cool things. 
 
-FOSS fan, privacy advocate, maker. 
+AI/ML, IoT, data, privacy, health & fitness, and 3d printing. 
