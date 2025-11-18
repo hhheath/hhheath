@@ -6,4 +6,4 @@ Formerly: [Losant](https://losant.com), [PredictHQ](https://predicthq.com)
 
 AI/ML, IoT, data, privacy, health & fitness, and 3d printing. 
 
-Obsess over the process.
+Obsess over the process. Active utilization.
